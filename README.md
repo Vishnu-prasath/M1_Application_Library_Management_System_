@@ -4,6 +4,7 @@
 
 Build | Code Coverage | Code Quality | Unity | Git Inspector
 |---------|------------|------------|-----------|----------------
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/5d05395070ac40a8af083ab293d1230d)](https://app.codacy.com/gh/Vishnu-prasath/M1_Application_Library_Management_System?utm_source=github.com&utm_medium=referral&utm_content=Vishnu-prasath/M1_Application_Library_Management_System&utm_campaign=Badge_Grade_Settings)
 [![C/C++ CI - Build Status](https://github.com/Rahul1656/Stepin/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Rahul1656/Stepin/actions/workflows/c-cpp.yml)|[![CI-Coverage](https://github.com/Rahul1656/Stepin/actions/workflows/gcov.yml/badge.svg)](https://github.com/Rahul1656/Stepin/actions/workflows/gcov.yml)|[![Code Quality - Static Code - Cppcheck](https://github.com/Rahul1656/Stepin/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Rahul1656/Stepin/actions/workflows/cppcheck.yml)  [![Valgrind](https://github.com/Rahul1656/Stepin/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Rahul1656/Stepin/actions/workflows/Valgrind.yml)   | [![Unit Testing - Unity](https://github.com/Rahul1656/Stepin/actions/workflows/unity.yml/badge.svg)](https://github.com/Rahul1656/Stepin/actions/workflows/unity.yml) | [![Contribution Check - Git Inspector](https://github.com/Rahul1656/Stepin/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Rahul1656/Stepin/actions/workflows/gitinspector.yml)
 
 
